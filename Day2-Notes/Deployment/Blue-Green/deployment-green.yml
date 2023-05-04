@@ -10,7 +10,7 @@ spec:
       version: v2
   template:
     metadata:
-      name: deploy-blue
+      name: deploy-green
       labels:
         app: kubeserve
         version: v2
